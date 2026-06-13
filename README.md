@@ -46,7 +46,7 @@ Find users by name pattern matching.
 ### Query 3: Handle NULL Payment Status
 Use COALESCE to replace NULL values.
 
-### Query 4: User Booking Details (JOIN)
+### Query 4: User Booking Details (INNER JOIN)
 Combine Users, Bookings, and Matches.
 
 ### Query 5: All Users with Bookings (LEFT JOIN)
